@@ -1,6 +1,8 @@
 # LearningML
 
 > A structured collection of Jupyter notebooks documenting a hands-on ML journey — from Python basics to deep learning, reinforcement learning, and generative models.
+>
+> > This repository is a personal learning log — all notebooks are based on my own learnings and experiments as I explore the field of machine learning.
 
 ![Language](https://img.shields.io/badge/language-Jupyter%20Notebook-orange)
 ![License](https://img.shields.io/badge/license-GPL--3.0-blue)
